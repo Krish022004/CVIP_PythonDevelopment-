@@ -12,7 +12,7 @@ while True:
     length = int(input("Enter the length of the passwords:"))
     password = generate(length)
     print("Your random password is:", password)
-    next = input("let's do next calculation?(yes/no):")
+    next = input("let's do another password ?(yes/no):")
     if next == "no":
         break
     else:

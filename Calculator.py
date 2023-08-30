@@ -47,7 +47,7 @@ while True:
     if choice== '6':
         try:
             num = int(input("Enter base number:"))
-            exp=int(input("enter exponitional"))
+            exp=int(input("enter exponentiation"))
         except ValueError:
             print("Invalid input.Please enter a number.")
             continue

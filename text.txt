@@ -1,0 +1,4 @@
+Hello world my name is G Krishna Teja and I am doing normal project!
+This is another test block of text for this project!
+This is used to find the typing speed.
+Okay this is just another test to make sure the program is working okay!
